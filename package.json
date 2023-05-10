@@ -37,6 +37,6 @@
     ]
   },
   "devDependencies": {
-    "echo3d": "^0.3.11"
+    "echo3d": "^0.3.13"
   }
 }
