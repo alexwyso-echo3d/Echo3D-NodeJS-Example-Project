@@ -3,6 +3,8 @@ This example project utilizes the echo3D Node.js SDK to allow users to interact 
 The SDK can be found [here](https://www.npmjs.com/package/echo3d?activeTab=readme).
 
 ## Video
+Click [here for video](https://youtu.be/dPdCnganMcU).
+
 
 ## Setup and Run
 1. [Register for a FREE account](https://console.echo3d.com/#/auth/register?utm_term={keyword}&utm_campaign=javascript_sdk&utm_source=github&utm_medium=sourcecontrol) at echo3D.
@@ -22,4 +24,7 @@ The SDK can be found [here](https://www.npmjs.com/package/echo3d?activeTab=readm
 ## Support
 Feel free to reach out at [support@echo3D.com](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join). 
 
-## Screenshots
+## Screenshot
+![Snapshot_25](https://github.com/echo3Dco/Echo3D-NodeJS-Example-Project/assets/99516371/13109b39-04f7-462a-80e1-f43aae4b9c63)
+
+
